@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+.lock/
+/log
+/conf
+.idea/
+.lock/
+tags
